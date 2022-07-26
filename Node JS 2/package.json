@@ -1,0 +1,23 @@
+{
+  "name": "node-js-2",
+  "version": "1.0.0",
+  "description": "mongo db Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iyerohit/NodeJSMongoDB.git"
+  },
+  "author": "iyerrohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyerohit/NodeJSMongoDB/issues"
+  },
+  "homepage": "https://github.com/iyerohit/NodeJSMongoDB#readme",
+  "dependencies": {
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.6"
+  }
+}
